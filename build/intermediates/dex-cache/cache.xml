@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b0045847f2b2bf35e8fbae4047dbeb747748f0e">
+        <dex dex="/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/pre-dexed/debug/classes_a3ebf8c0b2817ddf421b1bd56e683a72b8289e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b0045847f2b2bf35e8fbae4047dbeb747748f0e">
+        <dex dex="/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/demo/build/intermediates/pre-dexed/debug/classes_9e7d93abdf6d23920a1a7d5123ca0ce22e1e4bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/novainternet/.android/build-cache/8a2c453945cf54fd59d34d00d1f7c526111eb376/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/pre-dexed/debug/classes_8e4c70e36604a46b27425e956b788213f8432e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/novainternet/.android/build-cache/61659eb351e21ac352c297b28bbf4cfba4dd4a5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/pre-dexed/debug/classes_8d7f037fd43dd4029c165496c6c269b64cc91879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/novainternet/.android/build-cache/4c11945fb3f8166e0c2b7ed2e562ebe7cdee7635/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/pre-dexed/debug/classes_e2b2532d0ada5471d77495662e2323fb2a60df2a.jar" />
+    </item>
+
+</items>

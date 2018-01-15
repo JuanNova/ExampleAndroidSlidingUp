@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/demo/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/demo/build/intermediates/res/merged/debug/drawable-xhdpi/graphic.png",
+        "source": "/Users/novainternet/Desktop/EjemplosAndroid/AndroidSlidingUpPanel/demo/src/main/res/drawable-xhdpi/graphic.png"
+    },
+    {
+        "merged": "/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/build/intermediates/res/merged/debug/drawable-xhdpi/graphic.png",
+        "source": "/Users/novainternet/Desktop/FlutterExamples/AndroidSlidingUpPanel/demo/src/main/res/drawable-xhdpi/graphic.png"
+    }
+]
